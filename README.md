@@ -21,3 +21,7 @@ run "main_tabulardata.py" by modifying the const parameters as you see fit, it w
 "griddify_Diagram.py", converts the reliability diagrams into grids based on random state. <br>
 "griddify_roc_by_model.py", converts the ROC curves into grids based on model. <br>
 "ReliabilityDiagram.py", this is used inside "main_tabulardata.py" and must not be run. <br>
+
+## Datasets origins
+First four datasets are taken and modified from BackBlaze https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data .
+Last dataset is taken and modified from Baidu Inc. https://www.kaggle.com/datasets/drtycoon/hdds-dataset-baidu-inc .
